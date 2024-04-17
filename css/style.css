@@ -15,11 +15,14 @@ html{
 body{
   font-family: 'Open Sans', sans-serif;
  /*  background-color: black; */
+
 }
 ul{
   list-style: none;
 }
-
+.nartest{
+ 
+}
 .container{
   padding-left: 15px;
   padding-right: 15px;
@@ -263,11 +266,11 @@ header nav .form i{
   display: flex;
  }
 .landing .show span{
- width: 10px;
- height: 10px;
- margin-left: 8px;
- border: 1px solid white;
- border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  margin-left: 8px;
+  border: 1px solid white;
+  border-radius: 50%;
  }
 .landing .show .active{
   background-color: var(--second-color);
